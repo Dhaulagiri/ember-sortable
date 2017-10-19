@@ -4,7 +4,7 @@ module.exports = function(environment) {
   var ENV = {
     modulePrefix: 'dummy',
     environment: environment,
-    rootURL: '/',
+    rootURL: '/ember-sortable/demo/',
     locationType: 'auto',
     EmberENV: {
       FEATURES: {
